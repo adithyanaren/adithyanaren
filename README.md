@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adithya Naren  
+# 👋 Hi, I'm Adithya Narendran
 
  MSc Cloud Computing @ National College of Ireland  
  5+ years in QA & Cloud Automation (Amazon + Stealth.Design)  
