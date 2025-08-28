@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="icon.png" alt="FogWatch Logo" width="120"/>
-</p>
 
-# 🌦️ FogWatch – IoT Weather Dashboard with Azure IoT Hub
 # 👋 Hi, I'm Adithya Narendran
 
  MSc Cloud Computing @ National College of Ireland  
