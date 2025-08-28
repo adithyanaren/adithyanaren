@@ -30,6 +30,29 @@ A blockchain-based marketing app demonstrating **smart contracts, decentralized 
 🔹 [**Portfolio Website**](https://adithyanaren.github.io/)  
 Personal portfolio website showcasing my QA, Cloud, and ML projects.
 
+## ⚡ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white) 
+![PyTest](https://img.shields.io/badge/PyTest-%23373737.svg?&logo=pytest) 
+![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?&logo=selenium&logoColor=white) 
+![Appium](https://img.shields.io/badge/Appium-EE376D?logo=appium&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?&logo=microsoft-azure&logoColor=white) 
+![Kafka](https://img.shields.io/badge/Kafka-000000.svg?&logo=apache-kafka&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&logo=docker&logoColor=white) 
+![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-blue?logo=githubactions)
+
+---
+
 ## 📈 GitHub Stats
 ![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithyanaren&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyanaren&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhithya0616/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](https://adithyanaren.github.io)  
+📧 Email: [adithya.ak6@gmail.com](mailto:adithya.ak6@gmail.com)
+
