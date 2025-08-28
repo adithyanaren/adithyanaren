@@ -27,6 +27,9 @@ Real-time telemetry from IoT devices, visualized with **Streamlit** + **Azure Io
 🔹 [**MetaMarketing – Blockchain App**](https://github.com/adithyanaren/MetaMarketing-a-blockchain-app)  
 A blockchain-based marketing app demonstrating **smart contracts, decentralized transactions, and DApp architecture**.
 
-🔹 [**Portfolio Website**](https://github.com/adithyanaren/adithyanaren.github.io)  
+🔹 [**Portfolio Website**](https://adithyanaren.github.io/)  
 Personal portfolio website showcasing my QA, Cloud, and ML projects.
 
+## 📈 GitHub Stats
+![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithyanaren&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyanaren&layout=compact&theme=tokyonight)
