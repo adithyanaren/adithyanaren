@@ -51,6 +51,15 @@ Personal portfolio website showcasing my QA, Cloud, and ML projects.
 
 ---
 
+---
+
+## 📊 Contribution Graph & Streaks
+
+![GitHub Streak](https://streak-stats.demolab.com?user=adithyanaren&theme=tokyonight&hide_border=true)  
+
+![Adithya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adithyanaren&theme=tokyo-night&hide_border=true)  
+
+
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhithya0616/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](https://adithyanaren.github.io)  
